@@ -5,12 +5,12 @@ Requirements:
 - Splash Screen (PRIORITY - 1)
 - Sign Up or Sign In (Already implemented -- whitelabel)
 
-**Connection** (PRIORITY - 1)
+**Connection** 
 
-- Search for Captify 
-- Pair to Captify
-- Reconnect if connection is lost
-- Stay connected in the background
+- Search for Captify (PRIORITY - 1, but can be whitelabeled)
+- Pair to Captify (PRIORITY - 1, but can be whitelabeled)
+- Reconnect if connection is lost (PRIORITY - 1)
+- Stay connected in the background (PRIORITY - 1)
 
 **Tutorial** (PRIORITY - 2)
 
@@ -25,12 +25,12 @@ Requirements:
 
 **History Page**
 
-- List of conversation sessions (PRIORITY - 1)
-- Conversation details
-    - Share conversation (PRIORITY - 3) 
-    - Summarize conversation (PRIORITY - 3)
+- List of conversation sessions (PRIORITY - 2)
+- Conversation details (PRIORITY - 3) 
+    - Share conversation 
+    - Summarize conversation 
 - Settings
-    - [Toggle] Automatically save conversations (PRIORITY - 1, needed for list of conversation sessions)
+    - [Toggle] Automatically save conversations (PRIORITY - 2, needed for list of conversation sessions)
 
 **Settings**
 
@@ -76,7 +76,7 @@ Requirements:
     - Serial number
     - MAC address
     - Name (rename)
-- Account (PRIORITY - 1, already implemented in demo app, but Jason needs to provide their backend code)
+- Account (PRIORITY - 2, already implemented in demo app, but Jason needs to provide their backend code)
     - Name
     - Email
     - Change Password
