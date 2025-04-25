@@ -51,11 +51,11 @@ Requirements:
         - Omnidirectional
 - [Toggle] One button transcribe (start transcribing immediately when turned on)  (PRIORITY - 1)
 - [Toggle] Glasses sound effects  (PRIORITY - 1, already in the API)
-- [Toggle] Speaker Labelling  (PRIORITY - 1)
+- [Toggle] Speaker Labelling   (PRIORITY - 1 -- but captify team will test and provide the model to use)
     - Record 18s clip of person speaking
     - Option to not display my own voice transcription
 - [Toggle] Transcribe phone calls (LATER - DO NOT IMPLEMENT)
-- [Toggle] Environmental Sound Detection  (PRIORITY - 1)
+- [Toggle] Environmental Sound Detection  (PRIORITY - 1 -- but captify team will test and provide the model to use)
     - Doorbell Ringing
     - Knocking
     - Baby Crying
