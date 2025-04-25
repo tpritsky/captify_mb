@@ -2,21 +2,21 @@ Requirements:
 
 **On Opening**
 
-- Splash Screen
-- Sign Up or Sign In
+- Splash Screen (PRIORITY - 1)
+- Sign Up or Sign In (Already implemented -- whitelabel)
 
-**Connection**
+**Connection** (PRIORITY - 1)
 
-- Search for Captify
+- Search for Captify 
 - Pair to Captify
 - Reconnect if connection is lost
 - Stay connected in the background
 
-**Tutorial**
+**Tutorial** (PRIORITY - 2)
 
 - Tutorial containing videos on how to use the glass (could also be overlays)
 
-**Main Screen**
+**Main Screen** (PRIORITY - 1, can whitelabel relevant components)
 
 - Transcribe
     - Support for 40 languages
